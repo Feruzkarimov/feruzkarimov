@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feruzkarimov&label=Profile%20views&color=0e75b6&style=flat" alt="feruzkarimov" /> </p>
 
-- 🔭 I’m currently working on [UDRC admin panel](udrc.uz)
+- 🔭 I’m currently working on [Sheva.uz](sheva.uz)
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **React, Next.js, Node.js**
 
 - 💬 Ask me about **React**
 
